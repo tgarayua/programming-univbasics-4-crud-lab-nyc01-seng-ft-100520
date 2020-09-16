@@ -39,5 +39,4 @@ end
 def update_element_from_index(array, index_number, element)
   array = [1, 2, 3, 4, 5, 6]
   array[4] == 'totally'
-  return array[4]
 end
